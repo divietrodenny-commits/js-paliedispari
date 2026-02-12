@@ -1,4 +1,4 @@
-/* Palindroma */
+/* PALINDROMA */
 
 /* Inizio la funzione */
 function Palindroma(parola) {
@@ -25,4 +25,5 @@ if (Palindroma(inputUtente)) {
 } else {
     console.log('La parola non è palindroma');
 }
+
 

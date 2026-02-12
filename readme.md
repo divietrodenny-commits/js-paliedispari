@@ -37,8 +37,7 @@ come si capisce se una parola è palindroma ? Che lavoro occorre fare sulla paro
 Per verificare se una parola è palindroma, fare una funzione che confronta la stringa originale con la sua versione invertita. Trasformare la parola in minuscolo?, dividerla in array con split(''), invertila con reverse() e riunirla con join(''). 
 Chiedere l'input all'utente con prompt(), passare la parola alla funzione e stampare il risultato in console.
 
-
-L'utente sceglie "pari" o "dispari" e inserisce un numero da 1 a 5 con prompt().
 Generare un numero random per il PC con Math
+L'utente sceglie "pari" o "dispari" e inserisce un numero da 1 a 5 con prompt().
 Sokmare i due numeri e decretare il vincitore.
 Stampare il risultato in console.
