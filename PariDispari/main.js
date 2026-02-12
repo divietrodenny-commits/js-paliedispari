@@ -13,3 +13,9 @@ const sceltaUtente = prompt('Scegli: pari o dispari?').toLowerCase();
 
 /* altro input n.1-5 */
 const numUtente = parseInt(prompt('Inserisci un numero da 1 a 5'));
+
+/* creo una variabile per darle il valore random del pc */
+const numPC = generaRandom(1, 5);
+
+/* addizione tra i 2 */
+const somma = numUtente + numPC;
